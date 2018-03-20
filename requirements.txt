@@ -88,7 +88,6 @@ pyflakes==1.5.0
 Pygments==2.2.0
 PyJWT==1.5.2
 pylint==1.6.4
-pyodbc==4.0.16
 pyOpenSSL==17.0.0
 pyparsing==2.1.4
 PySocks==1.6.7
